@@ -1,0 +1,17 @@
+requests
+folium
+leafmap
+PyQt5
+PyQtWebEngine
+pandas
+numpy
+seaborn
+matplotlib
+plotly
+scipy
+scikit-learn
+contextily
+geopandas
+cartopy
+scikit-image
+adtk
