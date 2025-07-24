@@ -15,3 +15,4 @@ geopandas
 cartopy
 scikit-image
 adtk
+tensorflow
