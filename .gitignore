@@ -13,3 +13,4 @@ interactive_map.html
 # OS/Editor junk
 .DS_Store
 __pycache__/
+.DS_Store
