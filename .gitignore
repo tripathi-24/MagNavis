@@ -1,0 +1,15 @@
+# Ignore Python virtual environments
+venv/
+.env/
+
+# Ignore large generated/binary files
+*.so
+*.dll
+*.exe
+*.pyc
+*.pyo
+interactive_map.html
+
+# OS/Editor junk
+.DS_Store
+__pycache__/
