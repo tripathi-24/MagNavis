@@ -68,6 +68,20 @@ File Structure
 - main.py, MagNavis_v2.py — Previous versions (for reference)
 - venv/ — (Optional) Virtual environment directory
 
+Links for Datasets used 
+-----------------------
+https://data.world/search?q=magnetometer
+
+https://supermag.jhuapl.edu/mag/?tab=customdownload&fidelity=low&start=2001-01-01T00%3A00%3A00.000Z&interval=23%3A59.
+
+https://nsidc.org/data/imcs31b/versions/1
+
+https://files.ugcs.com/s/cAMZDdbbt7YWzW8
+
+https://files.ugcs.com/s/ywcByCqM2YEx8pB
+
+https://files.ugcs.com/s/zoPw6zrRni2SYg7
+
 Notes
 -----
 - The application is designed for desktop use and requires a Python 3 environment.
